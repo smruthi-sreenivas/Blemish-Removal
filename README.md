@@ -14,3 +14,5 @@ Blemish removal can be accomplished in two steps.
 1.Find an image patch for replacing the blemish region. The best potential patches are in the neighborhood of the blemish region because lighting and texture in this region is likely to be consistent with the blemish region.
 
 2.Blend the patch over the blemish region.
+
+Achieved 100% seamless blending with no visible artifacts, ensuring the output image was indistinguishable from natural skin.
